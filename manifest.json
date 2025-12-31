@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "name": "Giuggi Land",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Giuggi Land",
+  "start_url": "/",
+  "theme_color": "#ffffff"
+}
