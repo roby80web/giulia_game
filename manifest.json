@@ -2,7 +2,7 @@
   "name": "Giuggi Land",
   "short_name": "GiuggiLand",
   "description": "Buon compleanno amore",
-  "start_url": "/",
+  "start_url": "/giulia_game/",
   "display": "standalone",
   "orientation": "any",
   "scope": "/",
